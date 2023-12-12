@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/lechien73/terminal/issues"
   },
-  "homepage": "https://nixts.github.com/task-manager-sqlalchemy-materialize/",
+  "homepage": "https://github.com/lechien73/terminal#readme",
   "dependencies": {
     "node-static": "^0.7.11",
     "node-pty": "^0.10.1",
